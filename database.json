@@ -1,0 +1,92 @@
+{
+  "toys": [
+    {
+      "id": "1",
+      "title": "Ryklys",
+      "price": {
+        "currency": "€",
+        "amount": 15
+      },
+      "ageRestrictions": null,
+      "discount": {
+        "type": "amount",
+        "amount": 1
+      },
+      "imgSrc": "https://www.funtastik.lt/images/uploader/mi/minkstas-zaislas-ryklys-98-cm-6-1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Panda",
+      "price": {
+        "currency": "$",
+        "amount": 14
+      },
+      "ageRestrictions": {
+        "from": 3
+      },
+      "discount": {
+        "type": "toFixed",
+        "amount": 7
+      },
+      "imgSrc": "https://ksd-images.lt/display/aikido/store/b24d57952ff63164b2238716b81be4cd.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Pokemonas",
+      "price": {
+        "currency": "€",
+        "amount": 22
+      },
+      "ageRestrictions": null,
+      "discount": {
+        "type": "percentage",
+        "amount": 15
+      },
+      "imgSrc": "https://www.netshop.lt/cache/images_product_F_1_600x600/netshop.lt-pokemonu-zaislas.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Katinas",
+      "price": {
+        "currency": "€",
+        "amount": 9
+      },
+      "ageRestrictions": 8,
+      "discount": {
+        "type": "amount",
+        "amount": 2
+      },
+      "imgSrc": "https://robotomanija.lt/890-large_default/zoomer-kitty-robotas-zaislas.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Drugelis",
+      "price": {
+        "currency": "$",
+        "amount": 3
+      },
+      "ageRestrictions": {
+        "from": 5
+      },
+      "discount": {
+        "type": "toFixed",
+        "amount": 3
+      },
+      "imgSrc": "https://darirdar.lt/image/cache/data/MAITINIMAS/maitinimo-kedutes/LAM-TOY49/pro-12037-org-800x800.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Kiskis",
+      "price": {
+        "currency": "€",
+        "amount": 7
+      },
+      "ageRestrictions": null,
+      "discount": {
+        "type": "percentage",
+        "amount": 10
+      },
+      "imgSrc": "https://ehunt.lt/2733/pliusinis-zaislas-kiskis.jpg"
+    }
+  ]
+}
